@@ -23,15 +23,16 @@ This project is designed to run from the command line
 | Transformation Keyword  | Example .bmp                                                                                                                            |
 |-------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | none                    | [no transform](https://github.com/JessZuchowski/bitmap-transformer/tree/master/src/assets/exampleTransforms/libra.bmp)                  |
-| invert                  | [Inverted Libra](https://github.com/JessZuchowski/bitmap-transformer/blob/master/src/assets/exampleTransforms/invertedLibra)            |
-| degrade                 | [Degraded Libra](https://github.com/JessZuchowski/bitmap-transformer/tree/master/src/assets/exampleTransforms/degradedLibra)            |
-| negative                | [Negative Libra](https://github.com/JessZuchowski/bitmap-transformer/tree/master/src/assets/exampleTransforms/negativeLibra)            |
-| grayscale               | [Grayscale Libra](https://github.com/JessZuchowski/bitmap-transformer/tree/master/src/assets/exampleTransforms/grayLibra)               |
-| deconstruct             | [Deconstructed Libra](https://github.com/JessZuchowski/bitmap-transformer/tree/master/src/assets/exampleTransforms/deconstructedLibra)  |
-| highConstract           | [High Contrast Libra](https://github.com/JessZuchowski/bitmap-transformer/blob/master/src/assets/exampleTransforms/libraHighConstrast)  |
-| swapRBG                 | [Libra RBG](https://github.com/JessZuchowski/bitmap-transformer/tree/master/src/assets/exampleTransforms/LibraRBG)                      |
-| swapBGR                 | [Libra BGR](https://github.com/JessZuchowski/bitmap-transformer/tree/master/src/assets/exampleTransforms/LibraBGR)                      |
-| swapGRB                 | [Libra GRB](https://github.com/JessZuchowski/bitmap-transformer/tree/master/src/assets/exampleTransforms/LibraGRB)                      |
-| shuffleGBR              | [Libra GBR](https://github.com/JessZuchowski/bitmap-transformer/tree/master/src/assets/exampleTransforms/LibraGBR)                      |
-| shuffleBRG              | [Libra BRG](https://github.com/JessZuchowski/bitmap-transformer/tree/master/src/assets/exampleTransforms/LibraBRG)                      |
+| invert                  | [Inverted Libra](https://github.com/JessZuchowski/bitmap-transformer/blob/master/src/assets/exampleTransforms/invertedLibra.bmp)            |
+| degrade                 | [Degraded Libra](https://github.com/JessZuchowski/bitmap-transformer/tree/master/src/assets/exampleTransforms/degradedLibra.bmp)            |
+| negative                | [Negative Libra](https://github.com/JessZuchowski/bitmap-transformer/tree/master/src/assets/exampleTransforms/negativeLibra.bmp)            |
+| grayscale               | [Grayscale Libra](https://github.com/JessZuchowski/bitmap-transformer/tree/master/src/assets/exampleTransforms/grayLibra.bmp)               |
+| deconstruct             | [Deconstructed Libra](https://github.com/JessZuchowski/bitmap-transformer/tree/master/src/assets/exampleTransforms/deconstructedLibra.bmp)  |
+| highConstract           | [High Contrast Libra](https://github.com/JessZuchowski/bitmap-transformer/blob/master/src/assets/exampleTransforms/libraHighConstrast.bmp)  |
+| swapRBG                 | [Libra RBG](https://github.com/JessZuchowski/bitmap-transformer/tree/master/src/assets/exampleTransforms/LibraRBG.bmp)                      |
+| swapBGR                 | [Libra BGR](https://github.com/JessZuchowski/bitmap-transformer/tree/master/src/assets/exampleTransforms/LibraBGR.bmp)                      |
+| swapGRB                 | [Libra GRB](https://github.com/JessZuchowski/bitmap-transformer/tree/master/src/assets/exampleTransforms/LibraGRB.bmp)                      |
+| shuffleGBR              | [Libra GBR](https://github.com/JessZuchowski/bitmap-transformer/tree/master/src/assets/exampleTransforms/LibraGBR.bmp)                      |
+| shuffleBRG              | [Libra BRG](https://github.com/JessZuchowski/bitmap-transformer/tree/master/src/assets/exampleTransforms/LibraBRG.bmp)                      |
 | suite                   | (Suite will run each of the above, and save each to the output folder)                                                                                                      |                                                                                                      | 
+##### Libra is the intellectual property of Peter Mohrbacher, https://www.angelarium.net/libra
